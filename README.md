@@ -1,16 +1,13 @@
-### Bienvedios a mi perfil!
+# **Hola**
 
-<!--
-**LautaroTummino/LautaroTummino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------
+### __Mi nombre es Lautaro__
+-----------------------------
 
-Here are some ideas to get you started:
+*Tengo 28 años y actualmente me encuentro cursando el primer año en la carrera de Ingenería en Computación en la Universidad De Río Negro*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hobbies
+
+- Me encantan los videojuegos y el gaming competitivo.
+- Fanático de Boca y pasional con el futbol.
+- Me gusta el arte, todo tipo de arte.
