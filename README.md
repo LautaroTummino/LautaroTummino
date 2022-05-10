@@ -15,8 +15,8 @@
 
 
  _Amante del mate y el verano_
- _Ya que nuestra ciudad_: **San Carlos de Bariloche**
- _Cuenta con hermosos lugares y actividades, para desarrollar si el clima acompaña_.
+ _ya que nuestra ciudad_: **San Carlos de Bariloche**
+ _cuenta con hermosos lugares y actividades, para desarrollar si el clima acompaña_.
 
 **Gracias por visitar mi perfil!
 Saludos**
