@@ -11,3 +11,13 @@
 - Me encantan los videojuegos y el gaming competitivo.
 - Fanático de Boca y pasional con el futbol.
 - Me gusta el arte, todo tipo de arte.
+
+
+
+ _Amante del mate y el verano_
+ _Ya que nuestra ciudad_: **San Carlos de Bariloche**
+ _Cuenta con hermosos lugares y actividades, para desarrollar si el clima acompaña_.
+
+**Gracias por visitar mi perfil!
+Saludos**
+
