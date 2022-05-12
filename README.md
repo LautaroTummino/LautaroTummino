@@ -21,3 +21,4 @@
 **Gracias por visitar mi perfil**
 
 **Saludos**
+![Badge](https://bit.ly/icom-badge)
