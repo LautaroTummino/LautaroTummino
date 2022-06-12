@@ -20,3 +20,10 @@
 
 ![Badge](https://bit.ly/icom-badge)
 ![Badge](https://bit.ly/icom-badge)
+
+
+```mermaidjs
+stateDiagram-v2
+	mate --> bici
+	bici --> mate
+```
