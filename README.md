@@ -22,7 +22,8 @@
 ![Badge](https://bit.ly/icom-badge)
 
 
-```mermaidjs
+```
+mermaidjs
 stateDiagram-v2
 	mate --> bici
 	bici --> mate
