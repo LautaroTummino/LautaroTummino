@@ -4,7 +4,7 @@
 ### __Mi nombre es Lautaro__
 -----------------------------
 
-*Tengo 28 años y actualmente me encuentro cursando el primer año en la carrera de Ingenería en Computación en la Universidad De Río Negro*.
+*Actualmente me encuentro estudiando en la carrera de Ingenería en Computación en la Universidad De Río Negro*.
 
 #### Hobbies
 
