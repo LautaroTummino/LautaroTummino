@@ -4,7 +4,7 @@
 ### __Mi nombre es Lautaro__
 -----------------------------
 
-*Actualmente me encuentro estudiando en la carrera de Ingenería en Computación en la Universidad De Río Negro*.
+*Actualmente me encuentro estudiando en la carrera de Ingenería en Computación en la Universidad de Río Negro*.
 
 #### Hobbies
 
@@ -23,6 +23,6 @@
 
 ```mermaid
 stateDiagram-v2
-	mate --> bici
-	bici --> mate
+	mate --> estudio
+	estudio --> mate
 ```
