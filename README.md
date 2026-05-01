@@ -63,7 +63,7 @@
 - Implementation based on embedded systems logic  
 - Sensor-based decision making and real-time response  
 
-🔗 https://github.com/LautaroTummino/falta-subir
+🔗 https://github.com/LautaroTummino/taller-integrador-arquitectura
 
 ### 🧩 Sudoku Solver (C)
 - Implementation of multiple Sudoku variants (static, dynamic and random)  
