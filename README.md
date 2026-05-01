@@ -65,6 +65,14 @@
 
 🔗 https://github.com/LautaroTummino/falta-subir
 
+### 🧩 Sudoku Solver (C)
+- Implementation of multiple Sudoku variants (static, dynamic and random)  
+- Use of algorithms to solve and generate Sudoku boards  
+- Focus on problem solving and logical reasoning  
+
+🔗 https://github.com/LautaroTummino/trabajo_integrador
+
+
 ---
 
 <p align="center">
