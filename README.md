@@ -22,11 +22,11 @@
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-525252.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Godot](https://img.shields.io/badge/Godot-478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
 
 
 ## 🧪 Electronics & Embedded
