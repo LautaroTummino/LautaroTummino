@@ -55,7 +55,7 @@
 - Use of synchronization and monitors  
 - Focus on concurrency problem solving  
 
-🔗 https://github.com/LautaroTummino/falta-subir
+🔗 https://github.com/LautaroTummino/trabajo-integrador-concurrente
 
 
 ### 🚗 Line Follower Car (Embedded Systems)
